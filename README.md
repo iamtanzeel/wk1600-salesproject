@@ -1,2 +1,4 @@
-# <h1 style="color:red">Heading</h1>
+# Heading
 ### Subheading
+
+---
