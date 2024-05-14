@@ -24,4 +24,4 @@ def read_query(query):
     return df
 ```
 ***
-[Grocery](https://media.istockphoto.com/id/1314210006/photo/grocery-store-shop-in-vintage-style-with-fruit-and-vegetables-crates-on-the-street.jpg?s=612x612&w=0&k=20&c=UFL3bRQkWH7dt6EMLswvM4u8-1sPQU9T5IFHXuBbClU=)
+[Grocery](https://www.shutterstock.com/image-vector/supermarket-store-concept-people-grocery-260nw-1214115835.jpg)
