@@ -12,7 +12,7 @@ Using star for bullet points:
 * point2
 * point3
 
-```
+```python
 def read_query(query):
     cursor.execute(query)
     rows=cursor.fetchall()
