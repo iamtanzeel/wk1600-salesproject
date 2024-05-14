@@ -23,6 +23,11 @@ def read_query(query):
     df = pd.DataFrame(data=rows,columns=cursor.column_names)
     return df
 ```
+
+
+```mysql
+SELECT * FROM salesdata;
+```
 ***
 ![image](https://media.istockphoto.com/id/1314210006/photo/grocery-store-shop-in-vintage-style-with-fruit-and-vegetables-crates-on-the-street.jpg?s=612x612&w=0&k=20&c=UFL3bRQkWH7dt6EMLswvM4u8-1sPQU9T5IFHXuBbClU=)
 
