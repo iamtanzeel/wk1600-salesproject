@@ -25,3 +25,9 @@ def read_query(query):
 ```
 ***
 ![image](https://media.istockphoto.com/id/1314210006/photo/grocery-store-shop-in-vintage-style-with-fruit-and-vegetables-crates-on-the-street.jpg?s=612x612&w=0&k=20&c=UFL3bRQkWH7dt6EMLswvM4u8-1sPQU9T5IFHXuBbClU=)
+
+
+| column 1 | column 2|
+|----------|---------|
+| value 1 | value 2 |
+| value 3 | value 4|
