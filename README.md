@@ -12,10 +12,12 @@ Using star for bullet points:
 * point2
 * point3
 
-```def read_query(query):
+```
+def read_query(query):
     cursor.execute(query)
     rows=cursor.fetchall()
     df = pd.DataFrame(data=rows,columns=cursor.column_names)
-    return df```
+    return df
+```
 
 ***
