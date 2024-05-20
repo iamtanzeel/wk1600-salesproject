@@ -30,6 +30,7 @@ SELECT * FROM salesdata;
 ```
 ***
 ![image](https://media.istockphoto.com/id/1314210006/photo/grocery-store-shop-in-vintage-style-with-fruit-and-vegetables-crates-on-the-street.jpg?s=612x612&w=0&k=20&c=UFL3bRQkWH7dt6EMLswvM4u8-1sPQU9T5IFHXuBbClU=)
+![BestSubCategories](https://github.com/iamtanzeel/wk1600-salesproject/assets/125236453/5ae212d0-179b-4a86-9743-fe46256f93f0)
 
 
 | column 1 | column 2|
